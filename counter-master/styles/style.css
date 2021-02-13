@@ -15,13 +15,12 @@ body {
 .container {
   color: rgba(55, 59, 65, 0.8);
   font-family: Helvetica, sans-serif;
-  font-weight: bolder;
-  font-optical-sizing: auto;
+  font-weight: lighter;
   text-align: center;
 }
 
 h1 {
-  font-weight: bolder;
+  font-weight: normal;
 }
 li {
   display: inline-block;
