@@ -15,7 +15,8 @@ body {
 .container {
   color: rgba(55, 59, 65, 0.8);
   font-family: Helvetica, sans-serif;
-  font-weight: bold;
+  font-weight: bolder;
+  font-optical-sizing: auto;
   text-align: center;
 }
 
