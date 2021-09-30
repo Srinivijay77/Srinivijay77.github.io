@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Jun 29, 2021',
-  name: 'Rajalakshmi'
+  birthdate: 'Oct 01, 2021',
+  name: 'Hellii 😊'
 };
 
 function hideEverything() {
